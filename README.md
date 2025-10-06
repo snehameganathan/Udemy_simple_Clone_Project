@@ -7,7 +7,7 @@ This project replicates the **look and feel** of Udemy’s landing page with sec
 
 ## 🚀 Live Demo  
 
-🔗 [View Live Demo](https://your-live-demo-link.com)  
+🔗 [View Live Demo](https://snehameganathan.github.io/Udemy_simple_Clone_Project/)  
 *(Replace with GitHub Pages / Netlify / Vercel link)*  
 
 ---
